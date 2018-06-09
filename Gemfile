@@ -19,6 +19,12 @@ gem 'sass-rails', '~> 5.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+# Use bootstrap for view styling
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+
+# Use jquery for javascript
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+
 # Use CoffeeScript for .coffee assets and views
 # gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
