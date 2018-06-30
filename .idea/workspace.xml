@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ea3ed1c-b361-41a1-b57e-11d38d452e96" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/cryptocurrency_rails.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cryptocurrency_rails.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
-    </list>
+    <list default="true" id="2ea3ed1c-b361-41a1-b57e-11d38d452e96" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,21 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1951" />
           </provider>
         </entry>
       </file>
@@ -175,7 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="rou&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/config/routes.rb&#10;config/envi&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/config/environment.rb&#10;gem&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/Gemfile&#10;ign&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/.gitignore&#10;index.&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/app/views/home/index.html.erb&#10;na&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/app/views/home/_navbar.html.erb&#10;routes&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/config/routes.rb" />
+    <property name="SearchEverywhereHistoryKey" value="ge&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/Gemfile&#10;gemfile.l&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/Gemfile.lock&#10;gem&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/Gemfile&#10;rou&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/config/routes.rb&#10;config/envi&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/config/environment.rb&#10;ign&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/.gitignore&#10;index.&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/app/views/home/index.html.erb&#10;na&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/app/views/home/_navbar.html.erb&#10;routes&#9;FILE&#9;file:///Users/reetreet/Desktop/develop/cryptocurrency_rails/config/routes.rb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -303,7 +293,7 @@
       <option name="presentableId" value="Default" />
       <updated>1528561719559</updated>
       <workItem from="1528561721876" duration="5839000" />
-      <workItem from="1528858119917" duration="4792000" />
+      <workItem from="1528858119917" duration="5094000" />
     </task>
     <task id="LOCAL-00001" summary="Creates basic crypto ticker functionality">
       <created>1530340420216</created>
@@ -333,11 +323,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530342327080</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Installs devise gem">
+      <created>1530378871047</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1530378871047</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10631000" />
+    <option name="totallyTimeSpent" value="10933000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,14 +347,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968536" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.38987687" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32968536" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30232558" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.38987687" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49775785" visible="true" weight="0.15450644" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.38987687" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49775785" visible="true" weight="0.15450644" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.15808298" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -409,7 +407,8 @@
     <MESSAGE value="Creates crypto lookup page and form" />
     <MESSAGE value="Creates crypto lookup page form error checking" />
     <MESSAGE value="Attaches API to allow for crypto lookup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Attaches API to allow for crypto lookup" />
+    <MESSAGE value="Installs devise gem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Installs devise gem" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
@@ -537,17 +536,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/_flash.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -556,6 +555,11 @@
         <state relative-caret-position="240">
           <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1951" />
       </provider>
     </entry>
   </component>
