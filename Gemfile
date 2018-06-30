@@ -22,6 +22,9 @@ gem 'sass-rails', '~> 5.0'
 # Use bootstrap for view styling
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
+# Use devise for login
+gem 'devise', '~> 4.4', '>= 4.4.3'
+
 # Use jquery for javascript
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 
